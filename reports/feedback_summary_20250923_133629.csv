@@ -1,0 +1,12 @@
+feedback_id,title,category,severity,status,location_detail,created_at,resolved_at,priority_score
+3,Street Lights Not Working,Electricity,High,Resolved,"Road 12, Block C, Uttara Sector 7",2025-09-23 06:06:10,2025-09-23 07:35:55,0.9800000000000001
+11,there is theif,Safety,High,In Progress,,2025-09-23 06:15:06,,0.96
+6,Illegal Drug Activity,Safety,High,Pending,"Children's park, Road 11, Banani",2025-09-23 06:06:10,,0.96
+1,Broken Traffic Signal at Dhanmondi 27,Traffic,High,Resolved,"Dhanmondi 27 intersection, near Abahani Club",2025-09-23 06:06:10,2025-09-23 06:06:10,0.9
+8,Sewage Overflow Problem,Sanitation,High,Pending,"Lane 5, Tejgaon Industrial Area",2025-09-23 06:06:10,,0.7200000000000001
+4,Water Supply Irregular,Water,Medium,In Progress,"Block D, House 45, Mirpur 10",2025-09-23 06:06:10,,0.55
+9,Power Outage Daily,Electricity,Medium,Resolved,"Block F, Dhanmondi 15",2025-09-23 06:06:10,2025-09-23 06:06:11,0.55
+5,Road Full of Potholes,Infrastructure,Medium,Resolved,Main road from Wari to Gandaria,2025-09-23 06:06:10,2025-09-23 06:06:10,0.5
+2,Garbage Collection Not Regular,Sanitation,Medium,Pending,"Road 15, House 25, Gulshan 1",2025-09-23 06:06:10,,0.45
+10,Parking Problem at Market,Traffic,Low,In Progress,"New Market, Gulshan 2",2025-09-23 06:06:11,,0.2
+7,Bus Stop Shelter Damaged,Infrastructure,Low,In Progress,Bus stop near Mohammadpur Government College,2025-09-23 06:06:10,,0.16000000000000003
