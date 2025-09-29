@@ -1,6 +1,6 @@
 # 🏛️ AI-Powered Civic Feedback & Governance Platform
 
-A next-gen, AI-driven civic engagement system for governments and citizens. Built with Streamlit and Google Gemini 2.5 Flash (free API), it provides actionable intelligence, real-time dashboards, secure authentication, and robust analytics — fully functional locally and perfect for hackathons or civic innovation projects.
+A next-gen, AI-driven civic engagement system for governments and citizens. Built with Streamlit and Google Gemini 2.5 Flash (free API), it provides actionable intelligence, real-time dashboards, secure authentication, and robust analytics, fully functional locally and perfect for hackathons or civic innovation projects.
 
 ---
 
@@ -12,7 +12,7 @@ A next-gen, AI-driven civic engagement system for governments and citizens. Buil
 - **Spam/Quality Detection**: AI flags suspicious or irrelevant feedback.
 - **Intermediate Messaging**: Authorities can acknowledge and update citizens on progress.
 - **Real-Time Analytics Dashboard**: Interactive charts for category/urgency/status, recent feedback, resolution rate.
-- **Public Transparency Dashboard**: Anonymized, live stats for anyone—gov accountability & citizen trust.
+- **Public Transparency Dashboard**: Anonymized, live stats for anyone, gov accountability & citizen trust.
 - **Notifications**: Real-time alerts for feedback status changes, responses, priority issues.
 - **Weekly/Monthly Summary Reports**: AI-generated performance, trend analysis, actionable insights.
 - **Sample Data & Demo Accounts**: Pre-populated users, feedback, reports for instant hackathon demo.
