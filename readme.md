@@ -27,7 +27,6 @@ A next-gen, AI-driven civic engagement system for governments and citizens. Buil
 .
 ├── .streamlit/                # Streamlit UI config
 ├── reports/                   # Generated analytics/reports
-├── LICENSE                    # MIT License
 ├── README.md                  # This file
 ├── ai_processing.py           # AI/LLM functions (Gemini + fallback)
 ├── auth.py                    # Authentication & user management
